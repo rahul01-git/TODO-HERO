@@ -1,5 +1,5 @@
 
-# PortPeak
+# TODO HERO
 ![demo](logo.png)
 
 This is a command-line tool written in Ruby that is used for storing , viewing, update and delete todos. The data is manged in a text file.
